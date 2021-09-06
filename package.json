@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack",
   "dependencies": {
     "bitcore": "^0.12.4",
-    "bitcore-explorers": "^0.11.0",
+    "bitcore-explorers": "^0.12.0",
     "coffee-script": "^1.9.2",
     "lightsaber": "^0.4.1",
     "node-forge": "^0.6.26",
